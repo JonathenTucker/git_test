@@ -1,0 +1,2 @@
+Hello there! This is me testing how to stage and commit on VSC
+So far so good!
